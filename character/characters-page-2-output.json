@@ -121,18 +121,7 @@
           "name": "Beth's Mytholog",
           "status": "Dead",
           "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
-        },
-        {
-  "data": {
-    "episode": {
-      "id": "2",
-      "name": "Lawnmower Dog",
-      "air_date": "December 9, 2013",
-      "episode": "S01E02"
-    }
-  }
-}
-    
+        }
       ]
     }
   }

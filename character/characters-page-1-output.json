@@ -121,17 +121,8 @@
           "name": "Ants in my Eyes Johnson",
           "status": "unknown",
           "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
-        },
-        {
-  "data": {
-    "episode": {
-      "id": "1",
-      "name": "Pilot",
-      "air_date": "December 2, 2013",
-      "episode": "S01E01"
-    }
-  }
-}
+        }
+        
       ]
     }
   }
