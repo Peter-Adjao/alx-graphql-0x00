@@ -24,3 +24,29 @@ status
 species
 type
 gender
+
+# GraphQL Character Queries
+
+This repository contains GraphQL queries and their respective results for fetching a paginated list of characters using the `characters(page: Int)` field. Each query retrieves the following character details:
+- `id`
+- `name`
+- `status`
+- `image`
+
+
+# Episode Query with GraphQL
+
+This directory contains a GraphQL query for retrieving a specific episode by its ID. The query utilizes the `episode(id: ID!)` field to fetch selected episode details.
+
+## 📌 Query Objective
+
+Retrieve the following fields from a specific episode:
+- `id`
+- `name`
+- `air_date`
+- `episode`
+
+
+
+
+
